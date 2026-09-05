@@ -1,4 +1,4 @@
-# Awesome Human Rights [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Human Rights [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -89,10 +89,10 @@ Human Rights are universal moral principles and legal guarantees that protect in
 
 ## Related Awesome Lists
 
-- **[Awesome Climate Change](https://github.com/awesomelistsio/awesome-climate-change)** – Tools and resources for understanding and mitigating climate change.
-- **[Awesome Journalism](https://github.com/awesomelistsio/awesome-journalism)** – Resources and tools for data and investigative journalism.
-- **[Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science)** – Resources supporting open research and scientific transparency.
-- **[Awesome Political Science](https://github.com/awesomelistsio/awesome-political-science)** – Resources and datasets related to governance, policy, and political theory.
+- **[Awesome Climate Change](https://github.com/brandonhimpfen/awesome-climate-change)** – Tools and resources for understanding and mitigating climate change.
+- **[Awesome Journalism](https://github.com/brandonhimpfen/awesome-journalism)** – Resources and tools for data and investigative journalism.
+- **[Awesome Open Science](https://github.com/brandonhimpfen/awesome-open-science)** – Resources supporting open research and scientific transparency.
+- **[Awesome Political Science](https://github.com/brandonhimpfen/awesome-political-science)** – Resources and datasets related to governance, policy, and political theory.
 
 ## Contribute
 
