@@ -87,6 +87,11 @@ Human Rights are universal moral principles and legal guarantees that protect in
 - [The Intercept](https://theintercept.com/) – Investigative journalism on human rights and transparency.
 - [Global Investigative Journalism Network (GIJN)](https://gijn.org/) – Network supporting investigative journalists globally.
 - [Whistleblower Aid](https://whistlebloweraid.org/) – Legal and support services for whistleblowers.
+- [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) - US federal contract and grant awards by agency, recipient, NAICS and period (Apify Actor, API + MCP).
+- [Grants.gov Scraper](https://apify.com/publicrecords/grants-gov-scraper) - Open US federal grants: agency, deadline, eligibility and source link (Apify Actor, API + MCP).
+- [City Council Meetings Scraper (Legistar)](https://apify.com/publicrecords/legistar-meetings-scraper) - City council meetings, agenda items and documents for any Legistar city (Apify Actor, API + MCP).
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Federal Contracts Feed (SAM.gov + Grants.gov)](https://apify.com/publicrecords/govcon-opportunity-feed) - New US federal contract and grant notices from SAM.gov and Grants.gov in one feed (Apify Actor, API + MCP).
 
 ## Related Awesome Lists
 
